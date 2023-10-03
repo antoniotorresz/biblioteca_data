@@ -1,0 +1,132 @@
+prestamo_id,fecha_devolucion,estado
+325,2024-10-01,Roto de la portada
+208,2024-10-02,Mancha de café
+53,2024-10-03,Páginas dobladas
+120,2024-10-04,Pasta deslavada
+397,2024-10-05,Perdida de páginas
+314,2024-10-06,Mancha de tinta
+193,2024-10-07,Desgaste en el lomo
+11,2024-10-08,Mancha de grasa
+363,2024-10-09,Desgaste en las esquinas
+47,2024-10-10,Páginas rasgadas
+9,2024-10-11,Perdida de tapa
+312,2024-10-12,Páginas arrugadas
+402,2024-10-13,Mancha de pintura
+285,2024-10-14,Páginas escritas
+82,2024-10-15,Páginas faltantes
+94,2024-10-16,Pasta despegada
+58,2024-10-17,Páginas dobladas
+94,2024-10-18,Mancha de tinta
+152,2024-10-19,Páginas arrugadas
+195,2024-10-20,Pasta deslavada
+389,2024-10-21,Roto de la contraportada
+335,2024-10-22,Perdida de páginas
+252,2024-10-23,Mancha de café
+80,2024-10-24,Páginas escritas
+49,2024-10-25,Mancha de grasa
+27,2024-10-26,Desgaste en el lomo
+149,2024-10-27,Mancha de tinta
+75,2024-10-28,Desgaste en las esquinas
+366,2024-10-29,Páginas rasgadas
+283,2024-10-30,Perdida de tapa
+409,2024-10-31,Pasta despegada
+297,2024-11-01,Páginas arrugadas
+42,2024-11-02,Mancha de pintura
+287,2024-11-03,Páginas escritas
+82,2024-11-04,Páginas faltantes
+267,2024-11-05,Desgaste en las esquinas
+152,2024-11-06,Páginas dobladas
+208,2024-11-07,Mancha de café
+183,2024-11-08,Perdida de páginas
+308,2024-11-09,Páginas rasgadas
+74,2024-11-10,Roto de la contraportada
+338,2024-11-11,Mancha de tinta
+32,2024-11-12,Mancha de grasa
+25,2024-11-13,Desgaste en el lomo
+83,2024-11-14,Mancha de café
+120,2024-11-15,Mancha de pintura
+369,2024-11-16,Desgaste en las esquinas
+400,2024-11-17,Pasta deslavada
+186,2024-11-18,Páginas escritas
+125,2024-11-19,Páginas arrugadas
+89,2024-11-20,Páginas dobladas
+289,2024-11-21,Mancha de grasa
+272,2024-11-22,Roto de la portada
+149,2024-11-23,Perdida de tapa
+412,2024-11-24,Desgaste en el lomo
+270,2024-11-25,Mancha de tinta
+128,2024-11-26,Mancha de pintura
+358,2024-11-27,Páginas escritas
+214,2024-11-28,Páginas faltantes
+385,2024-11-29,Mancha de café
+82,2024-11-30,Páginas rasgadas
+216,2024-12-01,Páginas arrugadas
+422,2024-12-02,Pasta despegada
+108,2024-12-03,Desgaste en las esquinas
+153,2024-12-04,Mancha de tinta
+36,2024-12-05,Mancha de grasa
+94,2024-12-06,Perdida de páginas
+305,2024-12-07,Páginas escritas
+399,2024-12-08,Desgaste en el lomo
+390,2024-12-09,Páginas faltantes
+377,2024-12-10,Roto de la contraportada
+422,2024-12-11,Páginas dobladas
+189,2024-12-12,Mancha de café
+302,2024-12-13,Mancha de pintura
+365,2024-12-14,Desgaste en las esquinas
+404,2024-12-15,Mancha de tinta
+262,2024-12-16,Páginas arrugadas
+79,2024-12-17,Pasta deslavada
+58,2024-12-18,Páginas rasgadas
+415,2024-12-19,Pasta despegada
+193,2024-12-20,Perdida de tapa
+357,2024-12-21,Páginas escritas
+251,2024-12-22,Desgaste en el lomo
+44,2024-12-23,Mancha de tinta
+138,2024-12-24,Mancha de pintura
+399,2024-12-25,Páginas faltantes
+23,2024-12-26,Roto de la portada
+337,2024-12-27,Páginas dobladas
+163,2024-12-28,Mancha de café
+126,2024-12-29,Mancha de grasa
+94,2024-12-30,Desgaste en las esquinas
+388,2025-01-01,Páginas arrugadas
+359,2025-01-02,Mancha de pintura
+237,2025-01-03,Pasta despegada
+198,2025-01-04,Páginas escritas
+168,2025-01-05,Páginas rasgadas
+387,2025-01-06,Desgaste en el lomo
+104,2025-01-07,Perdida de tapa
+139,2025-01-08,Pasta deslavada
+88,2025-01-09,Mancha de grasa
+249,2025-01-10,Mancha de tinta
+338,2025-01-11,Desgaste en las esquinas
+91,2025-01-12,Páginas dobladas
+95,2025-01-13,Roto de la contraportada
+213,2025-01-14,Mancha de café
+172,2025-01-15,Mancha de pintura
+314,2025-01-16,Páginas arrugadas
+378,2025-01-17,Mancha de tinta
+60,2025-01-18,Páginas escritas
+88,2025-01-19,Desgaste en el lomo
+63,2025-01-20,Páginas faltantes
+334,2025-01-21,Mancha de grasa
+143,2025-01-22,Pasta deslavada
+105,2025-01-23,Páginas rasgadas
+217,2025-01-24,Mancha de tinta
+378,2025-01-25,Páginas arrugadas
+139,2025-01-26,Pasta despegada
+282,2025-01-27,Perdida de tapa
+183,2025-01-28,Mancha de café
+25,2025-01-29,Páginas dobladas
+328,2025-01-30,Mancha de pintura
+373,2025-02-01,Pasta deslavada
+48,2025-02-02,Desgaste en las esquinas
+388,2025-02-03,Mancha de grasa
+322,2025-02-04,Páginas escritas
+100,2025-02-05,Roto de la portada
+190,2025-02-06,Páginas arrugadas
+211,2025-02-07,Mancha de tinta
+78,2025-02-08,Desgaste en el lomo
+285,2025-02-09,Perdida de tapa
+371,2025-02-10,Mancha de café

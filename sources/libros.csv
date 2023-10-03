@@ -1,0 +1,137 @@
+titulo,isbn,autor_id,genero,ano_publicacion
+"Aventuras en la Luna","1234567890",1,"Ciencia Ficción",2010
+"El Misterio del Castillo","9876543210",2,"Misterio",2005
+"El Secreto de la Isla","5432109876",3,"Aventura",2015
+"La Ciudad Perdida","0987654321",4,"Aventura",2012
+"Viaje al Pasado","1357924680",5,"Ciencia Ficción",2008
+"El Tesoro del Pirata","2468013579",6,"Aventura",2013
+"El Enigma del Tiempo","8642097531",7,"Ciencia Ficción",2011
+"La Cueva Misteriosa","7890123456",8,"Misterio",2014
+"El Bosque Encantado","3216549870",9,"Fantasía",2009
+"La Expedición Perdida","5678901234",10,"Aventura",2007
+"El Secreto de la Montaña","1122334455",11,"Misterio",2016
+"El Viaje del Explorador","9988776655",12,"Aventura",2019
+"El Misterio del Desierto","3344556677",13,"Misterio",2006
+"El Viaje a lo Desconocido","5500550055",14,"Ciencia Ficción",2017
+"La Aventura en la Selva","0022558855",15,"Aventura",2018
+"El Último Descubrimiento","6622440088",16,"Ciencia Ficción",2010
+"El Misterio del Abismo","9900110022",17,"Misterio",2014
+"La Búsqueda del Tesoro","1122112233",18,"Aventura",2008
+"El Viaje Espacial","4455667799",19,"Ciencia Ficción",2012
+"La Aventura en la Montaña","1234012340",20,"Aventura",2013
+"El Misterio del Bosque Oscuro","0099887766",21,"Misterio",2016
+"La Isla de los Secretos","2222333344",22,"Aventura",2015
+"El Viaje a la Luna","9988776655",23,"Ciencia Ficción",2007
+"El Misterio del Castillo Encantado","3322110099",24,"Misterio",2011
+"La Búsqueda del Diamante","1234123412",25,"Aventura",2017
+"La Expedición a lo Desconocido","5566778899",26,"Ciencia Ficción",2018
+"El Misterio de la Pirámide","9977665544",27,"Misterio",2019
+"La Aventura en el Desierto","9900990011",28,"Aventura",2010
+"El Secreto de la Selva Profunda","9988776655",29,"Misterio",2009
+"El Viaje al Pasado","1133557799",30,"Ciencia Ficción",2013
+"La Ciudad Subterránea","2345234523",31,"Aventura",2014
+"La Isla del Tesoro","6666888899",32,"Aventura",2015
+"El Enigma del Mar","7777888999",33,"Misterio",2016
+"La Búsqueda del Oro","2222333344",34,"Aventura",2017
+"El Viaje al Futuro","1122112233",35,"Ciencia Ficción",2018
+"El Secreto del Templo","0000111122",36,"Misterio",2019
+"La Aventura en el Espacio Exterior","8888777777",37,"Ciencia Ficción",2020
+"La Montaña de los Enigmas","5555444999",38,"Aventura",2021
+"El Viaje al Centro de la Tierra","1111000011",39,"Ciencia Ficción",2011
+"El Tesoro del Pirata Fantasma","4444333322",40,"Aventura",2010
+"El Misterio de la Isla Desierta","7777888899",41,"Misterio",2009
+"La Búsqueda del Diamante Perdido","3333444555",42,"Aventura",2008
+"La Aventura en el Bosque Mágico","2222111111",43,"Fantasía",2007
+"El Viaje al Pasado Remoto","9999888877",44,"Ciencia Ficción",2006
+"El Enigma del Laberinto","0000111222",45,"Misterio",2005
+"La Búsqueda del Artefacto Perdido","7777666655",46,"Aventura",2015
+"La Aventura en el Desierto Rojo","6666777888",47,"Aventura",2014
+"El Secreto del Cofre Dorado","3333222211",48,"Misterio",2013
+"El Viaje a las Profundidades del Océano","2222333444",49,"Ciencia Ficción",2012
+"La Montaña Encantada","5555444333",50,"Fantasía",2011
+"La Expedición al Polo Norte","1111222333",51,"Aventura",2010
+"El Misterio del Archipiélago","9999000011",52,"Misterio",2009
+"El Tesoro de los Vikingos","4444555666",53,"Aventura",2008
+"El Enigma del Código Secreto","8888777666",54,"Misterio",2015
+"La Búsqueda del Mapa Perdido","3333444555",55,"Aventura",2016
+"La Aventura en el Espacio Profundo","5555444333",56,"Ciencia Ficción",2017
+"El Viaje a la Tierra del Nunca Jamás","1111222333",57,"Fantasía",2018
+"La Expedición al Centro de la Galaxia","0000111222",58,"Ciencia Ficción",2019
+"El Misterio del Abismo Negro","7777666655",59,"Misterio",2020
+"La Búsqueda del Diamante Azul","6666777888",60,"Aventura",2021
+"La Aventura en la Isla Secreta","5555444333",61,"Aventura",2010
+"El Secreto del Bosque Encantado","1111222333",62,"Fantasía",2009
+"El Viaje al Futuro Lejano","9999000011",63,"Ciencia Ficción",2008
+"El Enigma de la Ciudad Olvidada","4444555666",64,"Misterio",2007
+"La Búsqueda del Oro Mágico","8888777666",65,"Aventura",2006
+"La Montaña de los Deseos","3333444555",66,"Fantasía",2015
+"La Aventura en la Jungla Misteriosa","5555444333",67,"Aventura",2014
+"El Tesoro del Pirata Fantasma","1111222333",68,"Aventura",2013
+"El Misterio de la Mansión Abandonada","0000111222",69,"Misterio",2012
+"La Búsqueda del Artefacto Perdido","7777666655",70,"Aventura",2011
+"La Aventura en el Bosque de los Sueños","6666777888",71,"Fantasía",2010
+"El Secreto del Cofre Dorado","5555444333",72,"Aventura",2009
+"El Viaje a las Profundidades del Océano","1111222333",73,"Ciencia Ficción",2008
+"La Montaña Encantada","9999000011",74,"Fantasía",2007
+"La Expedición al Polo Sur","4444555666",75,"Aventura",2006
+"El Misterio del Archipiélago","8888777666",76,"Misterio",2015
+"El Tesoro de los Incas","3333444555",77,"Aventura",2016
+"El Enigma del Código Perdido","5555444333",78,"Misterio",2017
+"La Búsqueda del Mapa del Tesoro","1111222333",79,"Aventura",2018
+"La Aventura en el Espacio Exterior","0000111222",80,"Ciencia Ficción",2019
+"El Viaje a la Tierra de los Gigantes","7777666655",81,"Fantasía",2020
+"La Expedición al Centro del Universo","6666777888",82,"Ciencia Ficción",2021
+"El Misterio del Planeta Desconocido","5555444333",83,"Misterio",2010
+"El Secreto del Bosque Encantado","1111222333",84,"Fantasía",2011
+"El Viaje al Futuro Distante","9999000011",85,"Ciencia Ficción",2012
+"El Enigma de la Ciudad Desaparecida","4444555666",86,"Misterio",2013
+"La Búsqueda del Oro Escondido","8888777666",87,"Aventura",2014
+"La Montaña de los Deseos","3333444555",88,"Fantasía",2015
+"La Aventura en la Jungla Olvidada","5555444333",89,"Aventura",2016
+"El Secreto del Bosque Mágico","7654321098",4,"Fantasía",2010
+"La Búsqueda del Artefacto Mágico","9876543210",7,"Aventura",2011
+"El Viaje al Futuro Lejano","1234567890",5,"Ciencia Ficción",2012
+"La Expedición al Polo Sur","2345678901",9,"Aventura",2013
+"El Misterio del Archipiélago Desconocido","3456789012",3,"Misterio",2014
+"El Tesoro de los Vikingos Perdidos","4567890123",8,"Aventura",2015
+"El Enigma del Código Perdido","5678901234",1,"Misterio",2016
+"La Búsqueda del Mapa del Tesoro","6789012345",2,"Aventura",2017
+"La Aventura en el Espacio Profundo","7890123456",6,"Ciencia Ficción",2018
+"La Montaña de los Deseos","8901234567",10,"Fantasía",2019
+"La Aventura en la Jungla Olvidada","9012345678",4,"Aventura",2020
+"El Tesoro del Pirata Legendario","0123456789",7,"Aventura",2021
+"El Misterio de la Mansión Encantada","5432109876",2,"Misterio",2011
+"La Búsqueda del Artefacto Perdido","6543210987",5,"Aventura",2012
+"La Aventura en el Bosque de los Secretos","7654321098",3,"Fantasía",2013
+"El Secreto del Cofre Perdido","8765432109",6,"Aventura",2014
+"El Viaje a las Profundidades del Mar","9876543210",1,"Ciencia Ficción",2015
+"La Montaña Encantada","1098765432",9,"Fantasía",2016
+"La Expedición al Polo Norte","2109876543",8,"Aventura",2017
+"El Misterio del Archipiélago","3210987654",7,"Misterio",2018
+"El Tesoro de los Incas","4321098765",4,"Aventura",2019
+"El Enigma del Código Secreto","5432109876",10,"Misterio",2020
+"La Búsqueda del Mapa Perdido","6543210987",5,"Aventura",2021
+"La Aventura en el Espacio Exterior","7654321098",2,"Ciencia Ficción",2010
+"La Montaña de los Enigmas","8765432109",6,"Fantasía",2011
+"El Viaje al Centro de la Tierra","9876543210",3,"Ciencia Ficción",2012
+"El Tesoro del Pirata Fantasma","1098765432",1,"Aventura",2013
+"El Misterio de la Isla Desierta","2109876543",9,"Misterio",2014
+"La Búsqueda del Diamante Perdido","3210987654",8,"Aventura",2015
+"La Aventura en el Bosque Mágico","4321098765",7,"Fantasía",2016
+"El Viaje al Pasado Remoto","5432109876",5,"Ciencia Ficción",2017
+"El Enigma del Laberinto","6543210987",4,"Misterio",2018
+"La Búsqueda del Oro Mágico","7654321098",2,"Aventura",2019
+"La Montaña de los Deseos","8765432109",10,"Fantasía",2020
+"La Aventura en la Jungla Misteriosa","9876543210",6,"Aventura",2021
+"El Tesoro del Pirata Fantasma","1098765432",3,"Aventura",2010
+"El Misterio de la Mansión Abandonada","2109876543",7,"Misterio",2011
+"La Búsqueda del Artefacto Perdido","3210987654",8,"Aventura",2012
+"La Aventura en el Bosque de los Sueños","4321098765",5,"Fantasía",2013
+"El Viaje al Pasado Remoto","5432109876",6,"Ciencia Ficción",2014
+"El Enigma del Código Secreto","6543210987",9,"Misterio",2015
+"La Búsqueda del Mapa Perdido","7654321098",10,"Aventura",2016
+"La Aventura en el Espacio Exterior","8765432109",1,"Ciencia Ficción",2017
+"La Montaña de los Enigmas","9876543210",2,"Fantasía",2018
+"El Viaje al Centro de la Tierra","1098765432",4,"Ciencia Ficción",2019
+"El Tesoro del Pirata Fantasma","2109876543",3,"Aventura",2020
+"El Misterio de la Isla Desierta","3210987654",8,"Misterio",2021
